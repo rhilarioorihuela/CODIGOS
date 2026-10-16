@@ -1,0 +1,39 @@
+########################
+# Modulo 1
+########################
+
+# sesion 01
+numpy
+torch # PyTorch
+ipykernel
+torchvision
+matplotlib
+
+# softmax
+scikit-learn
+
+# sesion 03
+python-dotenv
+ollama
+
+# sesion 04
+google-genai
+gradio_client
+
+########################
+# Modulo 2
+########################
+
+# sesion 01
+
+# sesion 02
+langchain
+langchain-google-genai # librería para integrar Google GenAI con LangChain
+langchain-ollama # librería para integrar Ollama con LangChain
+
+
+# sesion 03
+pypdf
+langchain-text-splitters
+langchain-text-splitters
+langchain-chroma   
